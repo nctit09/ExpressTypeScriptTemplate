@@ -1,7 +1,7 @@
 {
   "name": "ctp13pvp",
   "version": "1.0.0",
-  "description": "server game p13 project",
+  "description": "Template Express + TypeScript",
   "main": "index.js",
   "author": "Steve N",
   "license": "MIT",
